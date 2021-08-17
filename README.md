@@ -3,7 +3,8 @@
 #### Currently developing Image-based classification problems
 
 ##### Other works/studies:
-- Android Kernel Tweaks
+- Android/Linux Kernel Experiments
 - Linux Kernel Drivers
+- Dev Android
 - Core: C, Java and Python
 - Learning Kotlin
