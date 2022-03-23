@@ -1,6 +1,6 @@
 ## Hi, I'm Alan :wave:
 ### I'm an undergraduate in Computer Engineering at UNICAMP and I'm interested in Data Science, Machine Learning and Image Processing
-#### Currently developing Image-based classification problems
+#### Currently developing object detection problems
 
 ##### Other works/studies:
 - Android/Linux Kernel Experiments
