@@ -6,7 +6,7 @@
 - Android/Linux Kernel Experiments
 - Linux Kernel Drivers
 - Dev Android
-- Core: C, Java and Python
+- Programming Languages: C, Java and Python
 - Learning Kotlin
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
